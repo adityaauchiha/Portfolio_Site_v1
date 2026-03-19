@@ -88,7 +88,11 @@ height:139px;
 /* Mobile */
 @media (max-width:768px){
 .site-logo{
-height:70px;
+        border-radius: 38px;
+        height: 51px;
+}
+.back-color{
+background-color: #090979;
 }
 }
 
